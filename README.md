@@ -1,7 +1,7 @@
 <h1 align="center">Hi Learners👋, I'm Ritesh Sharma.</h1>
 <h3 align="center">A passionate engineer trying to convert dreams into reality.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media1.giphy.com/media/Y4tKl8cAGQkPwH1bzo/source.gif](https://media1.giphy.com/media/LR5QP20nHuCOSmZMol/source.gif)">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/LR5QP20nHuCOSmZMol/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ov3rs3er&label=Profile%20views&color=0e75b6&style=flat" alt="ov3rs3er" /> </p>
 
