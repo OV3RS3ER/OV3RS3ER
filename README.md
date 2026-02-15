@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Unity3D, Blender3D**
 
-- 📫 How to reach me **rishusharmaavenger@gmail.com**
+- 📫 How to reach me **r06.sharma0103@gmail.com**
 
 - ⚡ Fun fact **I love PC games.**
 
